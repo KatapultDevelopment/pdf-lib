@@ -6,7 +6,6 @@ ts3.4/
 build/
 dist/
 cjs/
-es/
 
 tsBuildInfo.json
 flamegraph.html
