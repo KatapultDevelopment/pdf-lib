@@ -1,4 +1,4 @@
-import pako from 'pako';
+import * as pako from '@progress/pako-esm';
 
 import PDFHeader from 'src/core/document/PDFHeader';
 import { UnexpectedObjectTypeError } from 'src/core/errors';

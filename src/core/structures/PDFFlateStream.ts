@@ -1,4 +1,4 @@
-import pako from 'pako';
+import * as pako from '@progress/pako-esm';
 
 import { MethodNotImplementedError } from 'src/core/errors';
 import PDFDict from 'src/core/objects/PDFDict';

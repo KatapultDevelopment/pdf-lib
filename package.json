@@ -87,9 +87,9 @@
     "yarn.lock"
   ],
   "dependencies": {
-    "@pdf-lib/standard-fonts": "^1.0.0",
-    "@pdf-lib/upng": "^1.0.1",
-    "pako": "^1.0.11",
+    "@pdf-lib/standard-fonts": "github:KatapultDevelopment/standard-fonts",
+    "@pdf-lib/upng": "github:KatapultDevelopment/upng",
+    "@progress/pako-esm": "^1.0.1",
     "tslib": "^1.11.1"
   },
   "devDependencies": {
